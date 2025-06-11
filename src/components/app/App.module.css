@@ -1,0 +1,12 @@
+.app {
+  width: 100%;
+  background-color: #fefefe;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 25px;
+}

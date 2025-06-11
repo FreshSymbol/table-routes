@@ -1,0 +1,17 @@
+.sort {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ebebeb;
+}
+
+.text {
+  flex-basis: 32%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.text:hover {
+  cursor: pointer;
+}
